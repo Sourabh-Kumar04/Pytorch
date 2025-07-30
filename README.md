@@ -187,7 +187,9 @@ Absolutely! It's MIT licensed — fork it, adapt it, build on it.
 
 **Sourabh Kumar**
 🎓 *AI Programming with Python - Udacity Graduate*
+
 🎖️ AWS AI ML Scholar'24 | AI | ML | GenAI Explorer*
+
 🌐 [GitHub](https://github.com/Sourabh-Kumar04) | [LinkedIn](https://linkedin.com/in/sourabh-kumar04)
 
 > *"Always learning, always building — one notebook at a time."*
@@ -218,6 +220,6 @@ If you found this useful:
 *"The best way to learn deep learning is by building with it."*
 
 </div>
-```
+
 
 
